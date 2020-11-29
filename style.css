@@ -1,12 +1,12 @@
 #title {
-    background-color: darkcyan;
+    background-color: azure;
     text-align: center;
     font-size: 25px;
 }
  
 
-#info {
-    background-color: darkcyan;
+#about {
+    background-color: azure;
     color:darkgoldenrod;
     text-align:center;
     font-size:20px;
@@ -31,4 +31,13 @@ body{
     
     
     
+}
+#Inspirations{
+    background-color:azure;
+}
+#Mywork{
+    background-color:azure; 
+}
+body{
+    text-align:center;
 }
